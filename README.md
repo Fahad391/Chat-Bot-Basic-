@@ -1,4 +1,4 @@
-# Chat-Bot-Basic-
+# Basic Chat Bot-
 This is a basic chat-bot that can communicate. 
 Plans ->
         step_1-> It can respond 
